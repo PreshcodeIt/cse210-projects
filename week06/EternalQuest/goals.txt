@@ -1,0 +1,8 @@
+3400
+SimpleGoal|read|read a book|50|True
+EternalGoal|career|be a soth for programmer|1000
+ChecklistGoal|exercise|work out every day|50|1|500|500
+ChecklistGoal|dance|dance every day|50|3|3|500
+SimpleGoal|study|read a book|50|True
+EternalGoal|career|be the best programmer|1000
+ChecklistGoal|health|exercise regularly|50|2|2|500
